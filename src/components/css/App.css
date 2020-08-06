@@ -1,0 +1,17 @@
+/* Styles go here */
+
+/* Styles go here */
+
+.navbar {
+  width: 100%;
+  background-color: white;
+  color: black;
+  overflow: auto;
+}
+
+.navbar small.active {
+  background-color: #4CAF50;
+}
+.navbar small:hover {
+  background-color: #000;
+}
